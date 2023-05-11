@@ -1,3 +1,3 @@
 # go-simple-server
 
-A Go simple rest server
+A simple rest API server made with Go Lang.
